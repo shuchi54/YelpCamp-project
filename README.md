@@ -3,17 +3,17 @@ YelpCamp is a responsive online platform where users can upload , comment and ra
 
 # ⚙️ Features
 
-Login, sign-up, Admin role
-RESTful routes (Create, Read, Update, Delete) for campgrounds, comments, and reviews
-Create and Update forms have both client-side and server-side validation
-Create routes have authentication
-Update, and Delete routes have authentication and authorization
-Google Maps API
+- Login, sign-up, Admin role
+- RESTful routes (Create, Read, Update, Delete) for campgrounds, comments, and reviews
+- Create and Update forms have both client-side and server-side validation
+- Create routes have authentication
+- Update, and Delete routes have authentication and authorization
+-Google Maps API
 
 
 ## Installation Steps
 
-Install dependencies
-npm install
-or
-yarn install
+### Install dependencies
+-npm install
+-or
+-yarn install
