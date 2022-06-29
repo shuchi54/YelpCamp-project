@@ -14,7 +14,6 @@ Google Maps API
 ## Installation Steps
 
 Install dependencies
-    npm install
-  or
-
-    yarn install
+npm install
+or
+yarn install
