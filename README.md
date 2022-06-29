@@ -8,12 +8,14 @@ YelpCamp is a responsive online platform where users can upload , comment and ra
 - Create and Update forms have both client-side and server-side validation
 - Create routes have authentication
 - Update, and Delete routes have authentication and authorization
--Google Maps API
+- Google Maps API
+- Flash messages responding to users' interaction with the app
+- Responsive web design
 
 
 ## Installation Steps
 
 ### Install dependencies
--npm install
--or
--yarn install
+- npm install
+or
+- yarn install
